@@ -4,7 +4,7 @@ Machine-learning and scientific software, tested against known answers and indep
 
 I study astronomy at Yonsei University, with a second major in physics and a minor in mathematics. Each repository below states how it was tested, what it found and what it does not show.
 
-Portfolio: https://portfolio-site-flax-one-48.vercel.app
+Portfolio: https://astro-young.com
 Email: dudgus4867@gmail.com
 
 | Repository | What it is |
